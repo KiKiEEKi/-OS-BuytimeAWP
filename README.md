@@ -1,3 +1,7 @@
+Поддерживаемые игры:
+
+CS: Source (OrangeBox), CS: Source (v34), CS: GO
+
 Описание:
 
 Время закупки для AWP.
