@@ -28,3 +28,5 @@ More Colors
 #define CSSv34 false на true
 
 Конфиг создаться автоматически в cstrike/cfg/sourcemod/[OS]BuytimeAWP.cfg
+
+DS - https://discord.gg/Bbhy8ZsE6F VK - https://vk.com/kikieeki
